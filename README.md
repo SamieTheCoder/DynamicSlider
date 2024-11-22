@@ -12,7 +12,7 @@ Welcome to **Dynamic Swipe**, an interactive and visually stunning slider websit
   
 ## Demo
 
-Visit the [Dynamic Slider Demo](https://samiethecoder.github.io/DynamicSlider/) to see it in action!
+Visit the [Dynamic_Slider Demo](https://samiethecoder.github.io/DynamicSlider/) to see it in action!
 
 ## Installation
 
